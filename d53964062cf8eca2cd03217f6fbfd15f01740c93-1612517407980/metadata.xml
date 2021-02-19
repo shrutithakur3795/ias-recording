@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<recording>
+  <id>d53964062cf8eca2cd03217f6fbfd15f01740c93-1612517407980</id>
+  <state>published</state>
+  <published>true</published>
+  <start_time>1612517407980</start_time>
+  <end_time>1612520151482</end_time>
+  <participants>1</participants>
+  <meeting id="d53964062cf8eca2cd03217f6fbfd15f01740c93-1612517407980" externalId="cb6a6292-9262-4f17-bb45-59e51b347b75" name="chemistry Class 10th 05/02/2021" breakout="false"/>
+  <meta>
+    <meetingName>chemistry Class 10th 05/02/2021</meetingName>
+    <isBreakout>false</isBreakout>
+    <origintag>wp_plugin-bigbluebutton 1.1.19</origintag>
+    <originservername>https://toppersacademy.app/elearning</originservername>
+    <originurl>https://toppersacademy.app/elearning/course/class-10th-chemistry/lessons/live-chemistry-class-by-shivangi-mam-5-02-2021/</originurl>
+    <originservercommonname>eLearning</originservercommonname>
+    <meetingId>cb6a6292-9262-4f17-bb45-59e51b347b75</meetingId>
+    <origin>WordPress</origin>
+    <originversion>5.6.1</originversion>
+  </meta>
+  <playback>
+    <format>presentation</format>
+    <link>https://vc.thehinduzone.com/playback/presentation/2.0/playback.html?meetingId=d53964062cf8eca2cd03217f6fbfd15f01740c93-1612517407980</link>
+    <processing_time>1107903</processing_time>
+    <duration>2738392</duration>
+    <extensions>
+      <preview>
+        <images>
+          <image width="176" height="136" alt="">https://vc.thehinduzone.com/presentation/d53964062cf8eca2cd03217f6fbfd15f01740c93-1612517407980/presentation/d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1612517408025/thumbnails/thumb-1.png</image>
+        </images>
+      </preview>
+    </extensions>
+    <size>17969208</size>
+  </playback>
+  <raw_size>17541208</raw_size>
+</recording>
